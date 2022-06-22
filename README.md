@@ -10,5 +10,4 @@ this is just some text
 ## Making a New section
 
 1. Open the index.html in your browser
-
-
+2. Adding something really obvious
